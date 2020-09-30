@@ -10,7 +10,7 @@ namespace FaktoriálisBigInteger
     {
         static void Main()
         {
-            Console.WriteLine("Faktoriális meghatározása 20-40 közöt");
+            Console.WriteLine("Faktoriális meghatározása 20-40 között");
             for (int szám = 20; szám <= 40; szám++)
             {
                 BigInteger faktor = 1;
